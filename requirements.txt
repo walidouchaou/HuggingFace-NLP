@@ -1,0 +1,19 @@
+# --- Dépendances du Backend ---
+
+# Framework Web
+Flask
+
+# NLP
+transformers
+torch
+accelerate
+
+# Serveur WSGI de production
+gunicorn
+
+# Gestion de la configuration
+python-dotenv
+
+# --- Dépendances du Frontend (Gradio) ---
+gradio
+requests
