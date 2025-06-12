@@ -1,0 +1,5 @@
+Flask
+gradio
+transformers
+torch
+requests
